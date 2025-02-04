@@ -110,35 +110,70 @@ footer{padding: 3em 0;}
 
 /* Extra Large Devices (Desktops, 1200px and above) */
 @media (min-width: 1200px) {
+
+    .banner-item{
+        background-image:url(https://www.confident-group.com/campaigns/resorces/images/trivandrum/WD-TVM-NEW-LAUNCH-2-1843--735.webp);
+    }
+
     .banner-height {
-        height: 600px;
+        height: 574px;
     }
 }
 
 /* Large Devices (Laptops, 992px to 1199px) */
 @media (max-width: 1199px) {
+    .banner-item{
+        background-image:url(https://www.confident-group.com/campaigns/resorces/images/trivandrum/WD-TVM-NEW-LAUNCH-2-1843--735.webp);
+    }
+
+
     .banner-height {
-        height: 600px;
+        height: 420px;
     }
 }
 
 /* Medium Devices (Tablets, 768px to 991px) */
 @media (max-width: 991px) {
+
+    .banner-item{
+        background-image:url(https://www.confident-group.com/campaigns/resorces/images/trivandrum/WD-TVM-NEW-LAUNCH-2-1843--735.webp);
+    }
+
     .banner-height {
-        height: 600px;
+        height: 312px;
     }
 }
 
 /* Small Devices (Phones, 576px to 767px) */
 @media (max-width: 767px) {
+    .banner-item{
+        background-image:url(https://www.confident-group.com/campaigns/resorces/images/trivandrum/WD-TVM-NEW-LAUNCH-2-1843--735.webp);
+    }
+
     .banner-height {
-        height: 600px;
+        height: 175px;
     }
 }
 
 /* Extra Small Devices (Small Phones, below 576px) */
 @media (max-width: 575px) {
+
+    .banner-item{
+        background-image:url(https://www.confident-group.com/campaigns/resorces/images/trivandrum/lp-mob-banner-new.jpg);
+    }
+
     .banner-height {
-        height: 600px;
+        height: 250px;
     }
 }
+
+#formone .errorspan {
+    display: none;
+    margin-bottom: 10px;
+  }
+  
+  #formone .erroremailspan {
+    display: none;
+    margin-bottom: 10px;
+  }
+  
